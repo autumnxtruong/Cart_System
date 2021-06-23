@@ -12,7 +12,7 @@ public abstract class TheSystem {
     TheSystem() {
     	this.itemCollection  = new HashMap<String,Item>();
     	if(getClass().getSimpleName().equals("AppSystem")) {
-    		
+    		break;
     	}
     	
     	
